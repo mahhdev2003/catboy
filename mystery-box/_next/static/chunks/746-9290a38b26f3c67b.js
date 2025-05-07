@@ -932,7 +932,7 @@
                         "w-[30px] lg:w-[50px] h-[30px] lg:h-[50px] relative cursor-pointer group rounded-full overflow-hidden text-center bg-[#8B4DD2] p-1 lg:p-2",
                       onClick: function () {
                         return window.open(
-                          "https://t.me/catboyofficial",
+                          "https://t.me/cat_boy_eth",
                           "_blank"
                         );
                       },
@@ -950,7 +950,7 @@
                         "w-[30px] lg:w-[50px] h-[30px] lg:h-[50px] relative cursor-pointer group rounded-full overflow-hidden text-center bg-[#8B4DD2] p-1 lg:p-2",
                       onClick: function () {
                         return window.open(
-                          "https://twitter.com/catboy_io",
+                          "https://x.com/catboy_eth",
                           "_blank"
                         );
                       },
@@ -969,7 +969,7 @@
                   className:
                     "flex flex-col lg:flex-row items-center justify-center",
                   onClick: function () {
-                    return window.open("https://t.me/catboyofficial", "_blank");
+                    return window.open("https://t.me/cat_boy_eth", "_blank");
                   },
                   children: [
                     (0, n.jsxs)("div", {

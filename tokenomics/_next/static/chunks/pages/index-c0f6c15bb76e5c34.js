@@ -1740,7 +1740,7 @@
                                 "[background:linear-gradient(90deg,#5470FE_0%,#F567C7_100%)] cursor-pointer rounded-[47px] inline-flex items-center justify-center mr-3 lg:mr-0 mt-2 lg:mt-10 hover:scale-105 scale-100 transition-all duration-300 hover:shadow-[0px_0px_20px_0px_#522C65]",
                               onClick: function () {
                                 return window.open(
-                                  "https://t.me/catboyofficial",
+                                  "https://t.me/cat_boy_eth",
                                   "_blank"
                                 );
                               },
