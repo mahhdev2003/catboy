@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "image": "/images/home/team/bene.svg",
+    "name": "Bene",
+    "position": "Founder",
+    "social": [
+      {
+        "name": "Telegram",
+        "icon": "/images/home/team/telegram-white.svg",
+        "url": "https://t.me/bennegj"
+      },
+      {
+        "name": "Twitter",
+        "icon": "/images/home/team/twitter-white.svg",
+        "url": "https://twitter.com/bene_ctb"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "/images/home/team/selina.svg",
+    "name": "Selina",
+    "position": "Co-Owner",
+    "social": [
+      {
+        "name": "Telegram",
+        "icon": "/images/home/team/telegram-white.svg",
+        "url": "https://t.me/FlowerSelina"
+      },
+      {
+        "name": "Twitter",
+        "icon": "/images/home/team/twitter-white.svg",
+        "url": "https://twitter.com/FlowerSelinaa"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "/images/home/team/Floo.svg",
+    "name": "Floo",
+    "position": "Blockchain",
+    "social": [
+      {
+        "name": "Telegram",
+        "icon": "/images/home/team/telegram-white.svg",
+        "url": "https://t.me/FloooCrypto"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "/images/home/team/dan.svg",
+    "name": "Dan",
+    "position": "CTO",
+    "social": [
+      {
+        "name": "Telegram",
+        "icon": "/images/home/team/telegram-white.svg",
+        "url": "https://t.me/dandappdev"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "/images/home/team/ghoulNyan.png",
+    "name": "Ghoul",
+    "position": "AI Dev",
+    "social": [
+      {
+        "name": "Telegram",
+        "icon": "/images/home/team/telegram-white.svg",
+        "url": "https://t.me/ghoulNyan"
+      },
+      {
+        "name": "Twitter",
+        "icon": "/images/home/team/twitter-white.svg",
+        "url": "https://twitter.com/ghoulNyan"
+      }
+    ]
+  }
+]

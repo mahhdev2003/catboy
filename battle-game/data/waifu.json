@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "image": "/images/home/waifuchat/waifu1.jpg",
+    "name": "Waifu 1"
+  },
+  {
+    "id": 1,
+    "image": "/images/home/waifuchat/waifu2.jpg",
+    "name": "Waifu 2"
+  },
+  {
+    "id": 2,
+    "image": "/images/home/waifuchat/waifu3.jpg",
+    "name": "Waifu 3"
+  },
+  {
+    "id": 3,
+    "image": "/images/home/waifuchat/waifu4.jpg",
+    "name": "Waifu 4"
+  }
+]

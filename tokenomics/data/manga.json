@@ -1,0 +1,56 @@
+[
+  {
+    "id": 0,
+    "image": "/images/home/manga/NFT-1.jpeg",
+    "name": "Issue 1",
+    "title": "Mystery Box - NFTs Staking - Merch"
+  },
+  {
+    "id": 1,
+    "image": "/images/home/manga/NFT-7.jpeg",
+    "name": "Issue 2",
+    "title": "Waifu NFTs"
+  },
+  {
+    "id": 2,
+    "image": "/images/home/manga/NFT-3.jpeg",
+    "name": "Issue 3",
+    "title": "Upgrade Machine"
+  },
+  {
+    "id": 3,
+    "image": "/images/home/manga/NFT-6.jpeg",
+    "name": "Issue 4",
+    "title": "Battle Game Rules"
+  },
+  {
+    "id": 4,
+    "image": "/images/home/manga/NFT-10.jpeg",
+    "name": "Issue 5",
+    "title": "Gentlemen’s Club"
+  },
+  {
+    "id": 5,
+    "image": "/images/home/manga/NFT-9.jpeg",
+    "name": "Issue 6",
+    "title": "Affiliate Program"
+  },
+  {
+    "id": 6,
+    "image": "/images/home/manga/NFT-8.jpeg",
+    "name": "Issue 7",
+    "title": "Bridge"
+  },
+  {
+    "id": 7,
+    "image": "/images/home/manga/NFT-11.jpg",
+    "name": "Issue 8",
+    "title": "WaifuChat Rules"
+  },
+  {
+    "id": 8,
+    "image": "/images/home/manga/NFT-12.jpg",
+    "name": "Issue 9",
+    "title": "Catboy Pass"
+  }
+]

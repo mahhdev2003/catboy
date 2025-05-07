@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "image": "/images/mastery-box/rarity/utility.svg",
+    "name": "Utility",
+    "description": "Slayer Edition NFT can be used to play the Battle game"
+  },
+  {
+    "id": 1,
+    "image": "/images/mastery-box/rarity/reward.svg",
+    "name": "Rewards",
+    "description": "Earn staking rewards or sell in the marketplace"
+  },
+  {
+    "id": 2,
+    "image": "/images/mastery-box/rarity/collect.png",
+    "name": "Collect",
+    "description": "Complete the NFT Collection in the Collectors Book to earn a Bonus NFT"
+  }
+]

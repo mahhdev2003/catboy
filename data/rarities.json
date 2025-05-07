@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "image": "/images/mastery-box/rarity/Common.png",
+    "name": "Common",
+    "totalSupply": "50%"
+  },
+  {
+    "id": 1,
+    "image": "/images/mastery-box/rarity/Uncommon.png",
+    "name": "Uncommon",
+    "totalSupply": "35%"
+  },
+  {
+    "id": 2,
+    "image": "/images/mastery-box/rarity/Rare.png",
+    "name": "Rare",
+    "totalSupply": "10%"
+  },
+  {
+    "id": 3,
+    "image": "/images/mastery-box/rarity/Epic.png",
+    "name": "Epic",
+    "totalSupply": "5%"
+  }
+]

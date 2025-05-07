@@ -1,0 +1,680 @@
+[
+  {
+    "id": 1,
+    "name": "Founders Edition",
+    "season": "Season One",
+    "items": [
+      {
+        "id": 0,
+        "name": "Touma",
+        "image": "/images/home/collection/touma.png",
+        "imagePopup": "/images/home/collection/popup/touma.png",
+        "position": "Founders Edition",
+        "buttons": [],
+        "character": [{ "title": "Profession", "name": "Musician" }],
+        "rarity": "Common",
+        "color": "text-[#949494]",
+        "description": "Touma is an aspiring rock musician and sales rep for a mechanical engineering company. He's of average build and height with untamed purple hair, convincing pink eyes and a big confident deliberate smile. When he's not shamelessly plugging sub-standard aircraft parts to cheap investors, he's drinking, womanising and rocking out with his band. As great as he feels his life is going, he has recently been worried and began taking kick boxing lessons out of concern that some very upset and dangerous investors, demanding a refund from him personally, are going to pay him an unwanted visit."
+      },
+      {
+        "id": 1,
+        "name": "Ryota",
+        "image": "/images/home/collection/ryota.png",
+        "imagePopup": "/images/home/collection/popup/ryota.png",
+        "position": "Founders Edition",
+        "buttons": [],
+        "character": [{ "title": "Profession", "name": "Student" }],
+        "rarity": "Common",
+        "color": "text-[#949494]",
+        "description": "Ryota is a college student and full time carer of his troublesome younger sister, Akemi. He is a tall confident young man with silky green hair, a charming smile and an ambitious, creative demeanour.  Between studying, spending time with his girlfriend and trying to wrangle Akemi out of trouble, he dreams of working as a bio-engineer for his uncle's government subsidised synthetic biology company, Zintac Bio Solutions. For as long as he can remember, he has been the only stable figure in Akemi's life. Coming from a household with an alcoholic father and a mentally unstable mother, he would often have to steal food for himself and his sister to eat."
+      },
+      {
+        "id": 2,
+        "name": "Mitsuru",
+        "image": "/images/home/collection/mitsuru.png",
+        "imagePopup": "/images/home/collection/popup/mitsuru.png",
+        "position": "Founders Edition",
+        "buttons": [],
+        "character": [{ "title": "Profession", "name": "Womaniser" }],
+        "rarity": "Common",
+        "color": "text-[#949494]",
+        "description": "Mitsuru is an international con man and serial womaniser. He is tall with a lean athletic build, stylish blonde hair, symmetrical features and bright yellow eyes. He uses multiple phony identities, posing as a wealthy business man, he travels the globe seeking naive and desperate rich women. He romances and charms, manipulates and convinces them to invest large sums of money into phantom companies set up by his criminal accountant cousin and accomplice, Harue. At the age of 17, he had successfully embezzled three and a half million Yen from he's mothers wealthy socialite friend and then blackmailed her into silence by threatening to reveal their affair to her friends and husband."
+      },
+      {
+        "id": 3,
+        "name": "Jun",
+        "image": "/images/home/collection/jun.png",
+        "imagePopup": "/images/home/collection/popup/jun.png",
+        "position": "Founders Edition",
+        "buttons": [],
+        "character": [{ "title": "Profession", "name": "Chef" }],
+        "rarity": "Common",
+        "color": "text-[#949494]",
+        "description": "Jun is a celebrity chef, restauranteur and star of the hit TV series, 'The Next Head Chef'. He is short with straight black hair, confident golden eyes and a flamboyant, energetic demeanour. When he is not on set, filming his TV show, he is socialising with high society types who frequent his restaurant. He often spends wild nights partying in dens of inequity with A-listers and rich socialites. Coming from a wealthy banking family, his choice of career and lifestyle has been a major disappointment to his father, who see's him as nothing but a silly little servant boy playing games."
+      },
+      {
+        "id": 4,
+        "name": "Jojo",
+        "image": "/images/home/collection/jojo.png",
+        "imagePopup": "/images/home/collection/popup/jojo.png",
+        "position": "Founders Edition",
+        "buttons": [],
+        "character": [{ "title": "Profession", "name": "Thief and Magician" }],
+        "rarity": "Common",
+        "color": "text-[#949494]",
+        "description": "JoJo is a skilful thief and aspiring magician. He is short and skinny with mischievous icy blue eyes, scruffy blue and green hair with an outspoken, cocky and entertaining demeanour. He spends his time practising his magic tricks on unsuspecting strangers while robbing them blind and then sharing his loot amongst his unconventional family. Escaping from his parents at the age of 9, he spent years living on the streets in a gang of discarded and homeless misfits like himself. Longing to find his older sister who had been adopted by a wealthy family in America, he squirrels away some of his takings into a secret travel fund to one day voyage across the ocean to reconnect with he's dearly missed sister, Ena."
+      },
+      {
+        "id": 5,
+        "name": "Yori",
+        "image": "/images/home/collection/yori.png",
+        "imagePopup": "/images/home/collection/popup/yori.png",
+        "position": "Founders Edition",
+        "buttons": [],
+        "character": [{ "title": "Profession", "name": "Basketball Player" }],
+        "rarity": "Uncommon",
+        "color": "text-[#39de02]",
+        "description": "Yori is a college basketball player and adrenaline junky. He is of medium height with an athletic build, wavy black hair fringing over his competitive hazel brown eyes and classic handsome features. In between studying and working in his uncle's supermarket and thrill-seeking with a wild gang of dare devil friends, he practice's basketball and captains his college team. Since he was born, he has been full of energy and unbridled enthusiasm. His father had been a professional ball player himself and taught him the finer points and techniques of the game. As he got older, he became aware of his dad's drug use allegations and disgraced dismissal from the league, leaving him ashamed, angry and determined to succeed."
+      },
+      {
+        "id": 6,
+        "name": "Tomohiro",
+        "image": "/images/home/collection/tomohiro.png",
+        "imagePopup": "/images/home/collection/popup/tomohiro.png",
+        "position": "Founders Edition",
+        "buttons": [],
+        "character": [{ "title": "Profession", "name": "Basketball Player" }],
+        "rarity": "Uncommon",
+        "color": "text-[#39de02]",
+        "description": "Tomohiro often helps his great uncle Susumu in his backyard engineering workshop. He's of medium build and size for his age with a mess of red scruffy hair, scuffed up clothes and large, curious yellow eyes. He spends the majority of his time brainstorming and assisting in the construction of usually unsuccessful inventions with his eccentric uncle whilst seemingly convincing his parents he is at school getting straight A's. A crush on a girl, makes him the target of a jealous neighbourhood bully who seeks to socially ostracise him, has pushed him into an unusual understanding and friendship with the wild cats living in his uncles junk piles towering in the backyard."
+      },
+      {
+        "id": 7,
+        "name": "Nao",
+        "image": "/images/home/collection/nao.png",
+        "imagePopup": "/images/home/collection/popup/nao.png",
+        "position": "Founders Edition",
+        "buttons": [],
+        "character": [{ "title": "Profession", "name": "Detective" }],
+        "rarity": "Uncommon",
+        "color": "text-[#39de02]",
+        "description": "Nao is a Ghost walker, a spirit messenger and detective of the underworld. He is a short, thin and strangely confident man with jet black hair, hypnotic blue eyes and a pale, almost sickly, bony face. He moves in the shadows out of sight collecting useful secrets from the dead to manipulate the living. As a small boy he was abandoned by his mother and father in a woodland cottage leaving him to be raised by a sympathetic poltergeist. Determined to find his parents, he navigates the spirit world searching for clues as he dies a little more every time he crosses over."
+      },
+      {
+        "id": 8,
+        "name": "Isamu",
+        "image": "/images/home/collection/isamu.png",
+        "imagePopup": "/images/home/collection/popup/isamu.png",
+        "position": "Founders Edition",
+        "buttons": [],
+        "character": [{ "title": "Profession", "name": "Surfer" }],
+        "rarity": "Uncommon",
+        "color": "text-[#39de02]",
+        "description": "Isamu is a surfer, prankster and high school dropout. He's of a medium muscular build with messy, sun bleached hair, mischievous emerald green eyes and a sarcastic, witty demeanour. Sharing his older brother's bachelor pad, he spends his days smoking and selling weed, surfing with friends, hooking up with girls and strolling around town with his faithful canine companion and beloved family pet, Shib. As a child, his parents owned a side show in a traveling carnival. Homeschooled by his hippy mother, his older brother, sisters and himself would spend most their days exploring new towns, making friends and surfing the many beaches on their travels."
+      },
+      {
+        "id": 9,
+        "name": "Hoshi",
+        "image": "/images/home/collection/hoshi.png",
+        "imagePopup": "/images/home/collection/popup/hoshi.png",
+        "position": "Founders Edition",
+        "buttons": [],
+        "character": [{ "title": "Profession", "name": "Karate Instructor" }],
+        "rarity": "Uncommon",
+        "color": "text-[#39de02]",
+        "description": "Hoshi is a ex-military colonel turned karate instructor for troubled youth. He is tall with rock solid muscles from head to toe. He has serious brown eyes and chestnut hair with a calm and patient face. He trains and disciplines would-be career criminals for an outreach youth service in the city. During the war he witnessed many deaths, a lot of them, young men from broken homes sent to their deaths by a cold and corrupt corporate government dictatorship. His disgust of the system, forced him to turn his back on the armed services and find a new calling, guiding and offering young and confused kids a better start in life."
+      },
+      {
+        "id": 10,
+        "name": "Rikuto",
+        "image": "/images/home/collection/rikuto.png",
+        "imagePopup": "/images/home/collection/popup/rikuto.png",
+        "position": "Founders Edition",
+        "buttons": [],
+        "character": [{ "title": "Profession", "name": "Astronaut" }],
+        "rarity": "Rare",
+        "color": "text-[#b5c1fc]",
+        "description": "Rikuto is an Astronaut and geologist employed by the government to collect core samples from asteroids in search of rare and valuable minerals. He has a short and stocky build with a bowl of shiny blue hair and bulging pink eyes magnified from the thick lenses of his glasses. He analyses the geological layout of asteroids to pin point the safest and less hazardous landing zones to collect surface samples to find a rare and powerful mineral for a top secret government agency. Strong armed by military and government officials, he spends his waking moments longing to hold his wife and play with his children again while working hard to complete his mission."
+      },
+      {
+        "id": 11,
+        "name": "Katashi",
+        "image": "/images/home/collection/katashi.png",
+        "imagePopup": "/images/home/collection/popup/katashi.png",
+        "position": "Founders Edition",
+        "buttons": [],
+        "character": [{ "title": "Profession", "name": "Special Agent" }],
+        "rarity": "Rare",
+        "color": "text-[#b5c1fc]",
+        "description": "Katashi is an elite special agent employed by the rebel army master, Ginjiro Daigo. He is of medium height and build with messy greyish black hair, intense pink eyes glaring over the top of his mask with an almost supernatural and terrifying demeanour. When he's not sneaking around in the shadows, forcefully interrogating and deleting enemy soldiers, he is infiltrating enemy compounds as a spy using his many disguises to gather valuable Intel. As an orphan child, he was selected for adoption by a mysterious cabal of martial arts masters who trained him, along with others, in many styles of combat and guided meditation. After the betrayal of his previous employer, General Rikuro Chino, he now seeks to aid in overthrowing and the destruction of the current corrupt military government regime."
+      },
+      {
+        "id": 12,
+        "name": "Aki",
+        "image": "/images/home/collection/aki.png",
+        "imagePopup": "/images/home/collection/popup/aki.png",
+        "position": "Founders Edition",
+        "character": [{ "title": "Profession", "name": "Lady of the night" }],
+        "rarity": "Rare",
+        "color": "text-[#b5c1fc]",
+        "description": "Aki is a lady of the night and is bait for wealthy businessmen, corrupt politicians and connected celebrities. She is short and petite with a mop of silky red hair, bright seductive pink eyes and a soft, elegant face. She spends her time in dingy, smokey bars, luring targets to a bedroom and secretly filming the interactions for her boss, Gingiro Daigo. He uses the footage to blackmail her clients. Growing up in a large poor family, she would  find ways to make money by hustling and stealing from people on the streets. After a violent altercation with a disgruntled client, she found herself in a chance encounter with a mysterious, sword wielding assassin who offered her an opportunity to take revenge on those who had destroyed her fathers business and forced her family into depravity and poverty."
+      },
+      {
+        "id": 13,
+        "name": "Shenji",
+        "image": "/images/home/collection/shenji.png",
+        "imagePopup": "/images/home/collection/popup/shenji.png",
+        "position": "Founders Edition",
+        "buttons": [],
+        "character": [{ "title": "Profession", "name": "Priest" }],
+        "rarity": "Epic",
+        "color": "text-[#ff0a12]",
+        "description": "Shenji is an excommunicated priest, a vengeful and bitter manipulator who deceives sinners into doing his dirty work in return for eternal life. He is a tall thin man with snowy white hair, a pale complexion and handsome chiseled features. He has the ability to harness the power of the light and cast bolts of lightning from his finger tips. He often drinks wine and psychologically tortures his naive and unsuspecting victims. Obsessed with his past, his sole objective is to infiltrate the congregation that exiled him from the church and reign terror on those who dared to cast him out."
+      },
+      {
+        "id": 12,
+        "name": "Havi",
+        "image": "/images/home/collection/havi.png",
+        "imagePopup": "/images/home/collection/popup/havi.png",
+        "position": "Founders Edition",
+        "buttons": [],
+        "character": [{ "title": "Profession", "name": "Motorcycle racer" }],
+        "rarity": "Epic",
+        "color": "text-[#ff0a12]",
+        "description": "Havi is a retired professional motorcycle racer turned  vigilante and part time father to his disabled Son Haru. He is of  medium build and height with caramel blonde hair, green eyes and sharp attractive features. He is a crafty swordsman and weapons enthusiast who spends most days mastering the physics of battle. After the abrupt ending to his riding career, he now shy's away from the spotlight living in the country. An altercation with Yakuzaheavies, forcing him to retire and leaving his son paralysed from the waist down, has left him deeply wounded and consumed by pain and revenge."
+      },
+      {
+        "id": 13,
+        "name": "Arata",
+        "image": "/images/home/collection/arata.png",
+        "imagePopup": "/images/home/collection/popup/arata.png",
+        "position": "Founders Edition",
+        "buttons": [],
+        "character": [{ "title": "Profession", "name": "Assassin" }],
+        "rarity": "Epic",
+        "color": "text-[#ff0a12]",
+        "description": "Arata is a genetically enhanced bio android, a hired assassin for loan from his creator and master, General Rokuro Chino. He is of average size and build with solid brass hands, shins and feet. He has a menacing machine like stare with a programmed sarcastic demeanour. He is a powerhouse of strength and speed that pulverisers his targets into mush and bone with his massive metal fists. Although he is aware his memories are not real, when alone, he often reminisces of helping his mother in the garden while his father, General Rokuro Chino makes furniture in the barn."
+      },
+      {
+        "id": 14,
+        "name": "Daku",
+        "image": "/images/home/collection/daku.png",
+        "imagePopup": "/images/home/collection/popup/daku.png",
+        "position": "Founders Edition",
+        "character": [{ "title": "Profession", "name": "Fallen Angel" }],
+        "buttons": [],
+        "rarity": "Legendary",
+        "color": "text-[#ff7603]",
+        "description": "Daku is a fallen angel and unholy influencer of injured souls. He is tall and muscular with blood red hair, long thick sharp horns protruding from his scalp and hypnotic, unbridled fiery eyes. He lures confused and damaged beings into temptation by entering their subconscious minds and calling fourth the shadows of their desires, enticing them into committing sin and signing their souls over to Satan. Cast from heaven for his lustful conduct with earthly women, he practises extreme resentment, rage and hostility toward his older brother, Saito, who's hand had forcibly removed him from the heavenly realms banishing him to hell. He seeks to cut the wings from his brother and transform him into a mortal man, so he may torment his soul for eternity."
+      },
+      {
+        "id": 15,
+        "name": "Saito",
+        "image": "/images/home/collection/saito.png",
+        "imagePopup": "/images/home/collection/popup/saito.png",
+        "position": "Founders Edition",
+        "character": [{ "title": "Profession", "name": "Angel" }],
+        "buttons": [],
+        "rarity": "Legendary",
+        "color": "text-[#ff7603]",
+        "description": "Saito is an Angel. He is the judge and executioner for the Creator. He is tall and solid with shiny blonde hair, serious amber eyes and giant white wings towering above. He harnesses the power of the light and casts the corrupt from heaven into purgatory to walk among man with the opportunity of redemption or he banishes them to hell for eternity depending on the severity of their sins. From the beginning of the great separation of divine beings, he had served the Creator as a most loyal subject solidifying his position as Judge. Scorned by his brother's betrayal, he watched and waited for an opportunity to cast Daku into hell. Left emotionally wounded by he's once beloved sibling, he now has no tolerance for sin and strikes vengeance with unforgiving fury putting he's judgement into question by the Creator."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Slayer Edition",
+    "season": "Season Two",
+    "items": [
+      {
+        "id": 0,
+        "image": "/images/mastery-box/slayer-edition/akai.png",
+        "imagePopup": "/images/mastery-box/slayer-edition/popup/akai.png",
+        "medal": "/images/mastery-box/rarity/Common.png",
+        "character": [
+          { "title": "Element", "name": "Ice" },
+          { "title": "Power", "name": "100" }
+        ],
+        "buttons": ["Get a Card"],
+        "name": "Akai",
+        "position": "Slayers Edition",
+        "description": "Akai is a fierce slayer who is known for his water-based powers. He has earned his reputation as a catboy slayer, striking fear in the hearts of his enemies. Raised in a small coastal village, Akai discovered his ability to manipulate water at a young age. He has honed his skills to become an expert in using his powers to vanquish the catboys that threaten his village and beyond.\n Akai is a solitary figure who spends much of his time exploring the ocean and the nearby forests. He possesses a strong connection with nature and always tries to use his powers responsibly. His mastery of water allows him to conjure powerful waves, control the currents, and freeze his enemies in place. Despite his fearsome reputation, Akai has a kind heart and often helps those in need. He is a true hero who is willing to put his life on the line to protect his village and those he cares about.",
+        "rarity": "Common",
+        "color": "text-[#39de02]",
+        "height": "1'5",
+        "hobbt": "Baking"
+      },
+      {
+        "id": 1,
+        "image": "/images/mastery-box/slayer-edition/ren.png",
+        "imagePopup": "/images/mastery-box/slayer-edition/popup/ren.png",
+        "medal": "/images/mastery-box/rarity/Common.png",
+        "character": [
+          { "title": "Element", "name": "Warrior" },
+          { "title": "Power", "name": "100" }
+        ],
+        "buttons": ["Get a Card"],
+        "name": "Ren",
+        "position": "Slayers Edition",
+        "description": "Ren is a skilled warrior who has gained fame throughout the land as a catboy slayer. He comes from a family of fighters, including his older brother Haru, who is also a renowned warrior. Ren has trained extensively to hone his skills and to live up to the legacy of his family. As Haru's younger brother, Ren has a strong bond with his brother and often fights alongside him. Together, they have fought off countless catboys and other monsters that threaten their village and the surrounding areas. Ren is a fierce combatant, wielding his sword with incredible speed and precision.\n Despite his fearsome reputation, Ren is a kind and compassionate person. He often helps those in need and is known for his sense of justice. He is respected by his fellow warriors for his bravery and his unwavering commitment to protecting the innocent. Ren's fighting skills have been crucial in the ongoing battle against the catboy menace. He has faced many dangerous foes and emerged victorious thanks to his quick reflexes and sharp mind. As a young warrior with a bright future ahead of him, Ren is determined to continue his family's legacy and to protect his village and its people from all who would do them harm.",
+        "rarity": "Common",
+        "color": "text-[#39de02]",
+        "height": "2'5",
+        "hobbt": "Baking"
+      },
+      {
+        "id": 2,
+        "image": "/images/mastery-box/slayer-edition/ichiro.png",
+        "imagePopup": "/images/mastery-box/slayer-edition/popup/ichiro.png",
+        "medal": "/images/mastery-box/rarity/Common.png",
+        "character": [
+          { "title": "Element", "name": "Air" },
+          { "title": "Power", "name": "100" }
+        ],
+        "buttons": ["Get a Card"],
+        "name": "Ichiro",
+        "position": "Slayers Edition",
+        "description": "Ichiro is a skilled catboy slayer who possesses a unique and powerful ability: control over the air. Raised in a small village on the edge of a vast desert, Ichiro was fascinated by the power of the wind from a young age. He quickly learned that he had a natural talent for manipulating air currents, and he dedicated himself to honing this ability. Ichiro is a fearsome fighter who is known throughout the land for his prowess in battle. He uses his air powers to summon gusts of wind that can knock his enemies off their feet, create whirlwinds to trap them, and launch deadly tornadoes that leave nothing but destruction in their wake.\n Despite his formidable abilities, Ichiro is a humble and modest person. He is respected by his fellow warriors for his skill and his unwavering commitment to defeating the catboys that threaten their villages and towns. He often travels alone, seeking out those who would do harm to innocent people and striking them down with his air powers.\n As a catboy slayer, Ichiro is a force to be reckoned with. His ability to control the air gives him an edge in battle that few can match, and his quick reflexes and sharp mind make him a formidable opponent. He is determined to use his powers for the greater good, protecting those who cannot protect themselves and bringing justice to those who would do harm to others.",
+        "rarity": "Common",
+        "color": "text-[#39de02]",
+        "height": "2'5",
+        "hobbt": "Baking"
+      },
+      {
+        "id": 3,
+        "image": "/images/mastery-box/slayer-edition/ono.png",
+        "imagePopup": "/images/mastery-box/slayer-edition/popup/ono.png",
+        "medal": "/images/mastery-box/rarity/Uncommon.png",
+        "character": [
+          { "title": "Element", "name": "Earth" },
+          { "title": "Power", "name": "110" }
+        ],
+        "buttons": ["Get a Card"],
+        "name": "Ono",
+        "position": "Slayers Edition",
+        "description": "Ono is a powerful catboy slayer with a deep connection to the earth and ancient pharaohs. As a descendant of pharaohs, Ono possesses a deep understanding of the ancient powers of his ancestors and a strong sense of duty to protect the world from any threat. Ono's primary powers are his control over the earth and his telekinesis abilities. He can manipulate rocks and soil to create massive earthquakes or create towering walls to protect himself from attacks. Additionally, his telekinesis allows him to move objects with his mind, which he often uses to disarm his enemies or hurl them into the air. As a slayer, Ono is skilled in various forms of combat, including hand-to-hand combat and the use of various weapons. He also has an exceptional sense of awareness, allowing him to detect the presence of catboys from great distances.\n Despite his formidable powers, Ono is a humble and compassionate slayer who always puts the needs of others before his own. He has a deep respect for the earth and all its inhabitants, and he often goes out of his way to protect innocent animals and plants.\nOverall, Ono is a powerful and skilled catboy slayer with a deep connection to the earth and his pharaoh ancestry. His abilities and sense of duty make him a formidable opponent for any catboy who threatens the world's safety.",
+        "rarity": "Uncommon",
+        "color": "text-[#39de02]",
+        "height": "5'1",
+        "hobbt": "Baking"
+      },
+      {
+        "id": 4,
+        "image": "/images/mastery-box/slayer-edition/jiro.png",
+        "imagePopup": "/images/mastery-box/slayer-edition/popup/jiro.png",
+        "medal": "/images/mastery-box/rarity/Uncommon.png",
+        "character": [
+          { "title": "Element", "name": "Mental" },
+          { "title": "Power", "name": "110" }
+        ],
+        "buttons": ["Get a Card"],
+        "name": "Jiro",
+        "position": "Slayers Edition",
+        "description": "Jiro is a fearsome catboy slayer who is not to be underestimated. As a robot with a metallic body, Jiro possesses incredible strength and durability that far surpasses that of a human. He is also able to manipulate metal with his mind, which allows him to create deadly weapons and shields on the fly.Jiro's primary weapon is a laser gun that he wields with deadly accuracy. He is able to shoot targets from great distances and can quickly take out multiple enemies at once. His reflexes are also lightning-fast, allowing him to dodge incoming attacks with ease. \nDespite his intimidating appearance and incredible abilities, Jiro is a skilled strategist who always thinks several steps ahead of his opponents. He uses his metal manipulation powers to create intricate traps and barriers that can trap and confuse his enemies, making them easy targets for his laser gun.\n Jiro is a loner by nature, preferring to operate solo rather than with a team. However, he is known to  ake on missions for the greater good, particularly when it comes to eliminating dangerous catboy threats that threaten the safety of innocent civilians. Overall, Jiro is a force to be reckoned with, a true slayer of catboys with a deadly combination of metal powers and laser gun skills.",
+        "rarity": "Uncommon",
+        "color": "text-[#39de02]",
+        "height": "3'2",
+        "hobbt": "Baking"
+      },
+      {
+        "id": 5,
+        "image": "/images/mastery-box/slayer-edition/kai.png",
+        "imagePopup": "/images/mastery-box/slayer-edition/popup/kai.png",
+        "medal": "/images/mastery-box/rarity/Uncommon.png",
+        "character": [
+          { "title": "Element", "name": "Ice" },
+          { "title": "Power", "name": "110" }
+        ],
+        "buttons": ["Get a Card"],
+        "name": "Kai",
+        "position": "Slayers Edition",
+        "description": "Kai is a skilled catboy slayer with a unique ability to control and manipulate ice. He comes from a northern village where fur coats are a necessity to protect against the cold, and Kai has developed a particular love for them. He can often be seen wearing an elegant fur coat over his armor during his battles against the catboys. Kai is a formidable fighter who uses his ice powers to great effect. He can summon blizzards that can blind his enemies, create walls of ice to block their attacks, and launch sharp icicles that can pierce even the toughest armor. He is a quick and agile fighter, able to move swiftly on the ice and use it to his advantage in battle.\n Despite his love for fur coats, Kai is a focused and dedicated slayer. He is driven by a strong sense of justice and a desire to protect his village and its people from the catboy threat. He often works alone, seeking out catboys and taking them down with his icy powers.\n Kai's love for fur coats is not just a fashion statement, but a practical choice as well. He knows the value of staying warm in the harsh northern climate, and his fur coat provides both warmth and protection in battle. It also serves as a reminder of his roots and his connection to the land. As a catboy slayer, Kai is a powerful and determined fighter. His ice powers make him a formidable opponent, and his love for fur coats is just one of the many unique traits that make him a memorable and distinctive slayer.",
+        "rarity": "Uncommon",
+        "color": "text-[#39de02]",
+        "height": "1'5",
+        "hobbt": "Baking"
+      },
+      {
+        "id": 6,
+        "image": "/images/mastery-box/slayer-edition/ryu.png",
+        "imagePopup": "/images/mastery-box/slayer-edition/popup/ryu.png",
+        "medal": "/images/mastery-box/rarity/Rare.png",
+        "character": [
+          { "title": "Element", "name": "Poisson" },
+          { "title": "Power", "name": "120" }
+        ],
+        "buttons": ["Get a Card"],
+        "name": "Ryu",
+        "position": "Slayers Edition",
+        "description": "Ryu is a dangerous and deadly catboy slayer with a unique and lethal power. He has the ability to emit a powerful and highly toxic poison that paralyzes anyone who comes into contact with it. This makes him an incredibly formidable opponent, as he can incapacitate his enemies without even touching them. In addition to his poisonous power, Ryu is a skilled fighter who has trained extensively in martial arts and various forms of combat. He is agile and quick, able to evade attacks with ease and strike his opponents with deadly precision.\n Despite his formidable abilities, Ryu is a solitary and enigmatic figure. He keeps to himself and rarely interacts with others, preferring to work alone to eliminate his targets. His intense focus and single-minded determination make him a fearsome opponent for any catboy who crosses his path. Ryu's power also comes with its own set of challenges. He must be careful not to accidentally poison himself or others, and he must always be vigilant about his surroundings to avoid accidentally paralyzing innocent bystanders.\n Overall, Ryu is a dangerous and deadly catboy slayer with a unique and highly effective power. His skill in combat and intense focus make him a formidable opponent for any catboy who threatens the safety of the world.",
+        "rarity": "Rare",
+        "color": "text-[#b5c1fc]",
+        "height": "2'5",
+        "hobbt": "Baking"
+      },
+      {
+        "id": 7,
+        "image": "/images/mastery-box/slayer-edition/hiroshi.png",
+        "imagePopup": "/images/mastery-box/slayer-edition/popup/hiroshi.png",
+        "medal": "/images/mastery-box/rarity/Rare.png",
+        "character": [
+          { "title": "Element", "name": "Lighting" },
+          { "title": "Power", "name": "120" }
+        ],
+        "buttons": ["Get a Card"],
+        "name": "Hiroshi",
+        "position": "Slayers Edition",
+        "description": "Hiroshi is a powerful catboy slayer with a deep connection to the power of thunder. As the descendant of a Greek god, Hiroshi has inherited incredible abilities that allow him to manipulate lightning and thunder to devastating effect.\nHiroshi's primary power is his ability to control thunder and lightning, which he can harness to create powerful shockwaves that can knock out his opponents. He can also generate massive bolts of lightning that can strike multiple targets at once, making him a highly effective combatant in battles against multiple catboys. In addition to his thunder powers, Hiroshi is a highly skilled warrior with extensive training in various forms of combat. He is highly agile and quick, able to dodge incoming attacks and strike his opponents with deadly precision.\nDespite his immense power, Hiroshi is a humble and kind-hearted individual who uses his abilities to protect the innocent and uphold justice. He has a deep sense of duty and honor, and he always strives to do what is right, even in the face of great danger.\n Overall, Hiroshi is a powerful and highly skilled catboy slayer with a deep connection to the power of thunder. His abilities and noble spirit make him a formidable opponent for any catboy who threatens the world's safety.",
+        "rarity": "Rare",
+        "color": "text-[#b5c1fc]",
+        "height": "5'5",
+        "hobbt": "Baking"
+      },
+      {
+        "id": 8,
+        "image": "/images/mastery-box/slayer-edition/kagero.png",
+        "imagePopup": "/images/mastery-box/slayer-edition/popup/kagero.png",
+        "medal": "/images/mastery-box/rarity/Rare.png",
+        "character": [
+          { "title": "Element", "name": "Fire" },
+          { "title": "Power", "name": "120" }
+        ],
+        "buttons": ["Get a Card"],
+        "name": "Kagero",
+        "position": "Slayers Edition",
+        "description": "Kagero is a catboy slayer with a strong affinity for fire and a playful, cheeky personality. He is knownfor his mischievous nature and his love of pranks, which he often uses to liven up his missions and keep his fellow slayers on their toes.\n Kagero's primary power is his ability to control and manipulate fire, which he can use to create massive flames and explosive bursts of energy. He is also highly skilled in close-quarters combat, using his agility and speed to evade attacks and strike his enemies with deadly precision.\n Despite his playful nature, Kagero takes his role as a catboy slayer very seriously and always puts the safety of others first. He is highly skilled in strategic thinking and often uses his wits to outsmart his opponents and gain the upper hand in battle.\n Kagero's cheeky and playful demeanor makes him a unique and memorable figure among his fellow catboy slayers. His love of pranks and mischief is balanced by his dedication to his duty and his fierce determination to protect the innocent and uphold justice.",
+        "rarity": "Rare",
+        "color": "text-[#b5c1fc]",
+        "height": "5'5",
+        "hobbt": "Baking"
+      },
+      {
+        "id": 9,
+        "image": "/images/mastery-box/slayer-edition/orochi.png",
+        "imagePopup": "/images/mastery-box/slayer-edition/popup/orochi.png",
+        "medal": "/images/mastery-box/rarity/Epic.png",
+        "character": [
+          { "title": "Element", "name": "Dragon" },
+          { "title": "Power", "name": "130" }
+        ],
+        "name": "Orochi",
+        "position": "Slayers Edition",
+        "description": "Orochi is a powerful catboy slayer who has the ability to harness the power of dragons. He is known for his immense strength and his ability to wield his dragon powers to devastating effect in battle.\n Orochi's dragon powers are incredibly versatile, allowing him to breathe fire, manipulate the elements, and unleash powerful blasts of energy. He is also highly skilled in close-quarters combat, able to use his incredible strength to overpower his opponents and strike them down with deadly force.\n Despite his formidable power, Orochi is a humble and honorable warrior who fights to protect the innocent and uphold justice. He is deeply dedicated to his role as a catboy slayer, and he always puts the safety of others before his own.\nOrochi's connection to dragons is a source of great pride and strength for him, and he often takes on the appearance of a dragon when he enters battle. This transformation enhances his strength and agility, making him a nearly unstoppable force on the battlefield. Overall, Orochi is a fearsome and powerful catboy slayer with a deep connection to the power of dragons. His strength and abilities make him a formidable opponent for any catboy who threatens the safety of others, and his honorable nature makes him a respected and revered member of the slayer community.",
+        "rarity": "Epic",
+        "color": "text-[#ff0a12]",
+        "height": "5'5",
+        "hobbt": "Baking"
+      },
+      {
+        "id": 10,
+        "image": "/images/mastery-box/slayer-edition/yuzuki.png",
+        "imagePopup": "/images/mastery-box/slayer-edition/popup/yuzuki.png",
+        "medal": "/images/mastery-box/rarity/Epic.png",
+        "character": [
+          { "title": "Element", "name": "Light" },
+          { "title": "Power", "name": "130" }
+        ],
+        "buttons": ["Get a Card"],
+        "name": "Yuzuki",
+        "position": "Slayers Edition",
+        "description": "Yuzuki was a catboy slayer of legendary renown. His power of light was known to be unrivaled, and he wielded it with deadly precision to strike down his feline foes. Yuzuki was not just any ordinary knight, he was a Demi god, with powers that extended far beyond that of a mere mortal.\n Despite his godly status, Yuzuki was a humble and kind-hearted man who always put the safety of others above his own. He was fiercely dedicated to protecting his village and its people, and spent countless hours training and honing his combat skills to become the best catboy slayer he could be.\n But it wasn't just his prowess in battle that made Yuzuki famous. His striking good looks and charismatic personality made him a figure of great admiration and awe. People were drawn to him like moths to a flame, and many were captivated by his powerful presence and irresistible charm.\n To this day, stories and legends abound about Yuzuki and his incredible exploits as a catboy slayer and Demi god. He remains a symbol of strength and hope for all those who face great challenges in life, and his legend will endure for generations to come.",
+        "rarity": "Epic",
+        "color": "text-[#ff0a12]",
+        "height": "5'1",
+        "hobbt": "Baking"
+      },
+      {
+        "id": 11,
+        "image": "/images/mastery-box/slayer-edition/jinn.png",
+        "imagePopup": "/images/mastery-box/slayer-edition/popup/jinn.png",
+        "medal": "/images/mastery-box/rarity/Epic.png",
+        "character": [
+          { "title": "Element", "name": "Shadow" },
+          { "title": "Power", "name": "130" }
+        ],
+        "buttons": ["Get a Card"],
+        "name": "Jinn",
+        "position": "Slayers Edition",
+        "description": "Jinn was a catboy slayer of infamous reputation, but he was not like any other slayer. He hailed from the underworld and had the power of shadows, a dark and dangerous force that he used to deadly effect in his battles against catboys.\nUnlike many other slayers who fought for justice and the greater good, Jinn was a villain through and through. He had no qualms about using any means necessary to achieve his ultimate goal - taking over every catboy in existence.\n Jinn's evil intentions were well-known, and he was feared by both catboys and humans alike. His shadow powers allowed him to move undetected, making him a master of stealth and deception. He used these skills to sow chaos and destruction wherever he went, leaving a trail of devastation in his wake.\n Despite his nefarious reputation, there were some who admired Jinn's dark power and were drawn to his twisted charisma. His abilities were impressive, and many who saw him in action were both terrified and fascinated by his control of the shadows.\n In the end, Jinn's thirst for power and control would be his undoing. He was eventually defeated by a coalition of catboys and slayers who recognized the threat he posed to their existence. Though his legend lives on, it is a cautionary tale of the dangers of succumbing to the lure of darkness and evil.",
+        "rarity": "Epic",
+        "color": "text-[#ff0a12]",
+        "height": "1'5",
+        "hobbt": "Baking"
+      },
+      {
+        "id": 12,
+        "image": "/images/mastery-box/slayer-edition/king-haru.png",
+        "imagePopup": "/images/mastery-box/slayer-edition/popup/king-haru.png",
+        "medal": "/images/mastery-box/rarity/king.png",
+        "character": [{ "title": "Element", "name": "King" }],
+        "buttons": [],
+        "name": "King Haru",
+        "position": "Slayers Edition",
+        "description": "King Haru was a typical high school student until the day he stumbled across a mysterious key that changed his life forever. When he opened the door that the key unlocked, he found himself transported to an alternative universe, where catboys not only existed, but were also fierce slayers who possessed incredible powers.\n Despite being initially bewildered by the strange new world he had found himself in, Haru soon realized that he had a unique opportunity to train as a slayer himself. He was motivated by a desire to help the catboys fight against the dark forces that threatened their existence, and to uncover the secrets of the universe he found himself in.\nHaru's journey as a slayer was a challenging one. He was inexperienced and lacked the natural gifts that many of the other slayers possessed, but he was determined to succeed. He trained hard,alongside his younger brother who had also been transported to the alternative universe with him, and over time he began to develop his own set of skills and powers.\n Despite his transformation into a powerful slayer, Haru never forgot his roots as a high school student. He alternated between his two identities, keeping his life in the alternative universe separate from his life in the regular world. It was a difficult balancing act, but Haru was driven by a sense of duty and purpose that gave him the strength to carry on.\nThrough his trials and tribulations, Haru became a symbol of hope and inspiration to the catboys he fought alongside. His courage, determination, and unwavering commitment to his cause made him a respected and admired figure in both worlds, and his legend as a great slayer lived on long after he had returned to his own reality.",
+        "rarity": "Bonus",
+        "height": "3'2",
+        "hobbt": "Baking"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Waifus",
+    "season": "Season Two",
+    "items": [
+      {
+        "id": 0,
+        "image": "/images/home/waifuchat/sora.png",
+        "imagePopup": "/images/home/waifuchat/sora-min.png",
+        "character": [
+          { "title": "Personality", "name": "Charming, Stylish" },
+          { "title": "Star Sign", "name": "Aries" },
+          { "title": "Height", "name": "5'5''" },
+          { "title": "Hobby", "name": "Shopping" }
+        ],
+        "buttons": [],
+        "name": "Sora",
+        "position": "Waifu",
+        "description": "Sora is a charming and fashionable waifu who hails from a wealthy family. With her well-bred manners and refined taste, she enjoys indulging in the finer things in life, such as luxury shopping and high-end restaurants. Despite her privileged upbringing, Sora is known for her kind and approachable personality, always willing to lend a helping hand to those in need. Her love of fashion and beauty inspires her to experiment with different styles, always seeking out the latest trends and accessories to add to her already impressive collection. Although she sometimes struggles to balance her desire for material possessions with her deeper sense of purpose and meaning, Sora remains a beloved figure among her family and friends for her warmth, grace, and impeccable sense of style.",
+        "height": "5'5"
+      },
+      {
+        "id": 1,
+        "image": "/images/home/waifuchat/cherry.png",
+        "imagePopup": "/images/home/waifuchat/cherry-min.png",
+        "character": [
+          { "title": "Personality", "name": "Sweet, Flirtatious" },
+          { "title": "Star Sign", "name": "Taurus" },
+          { "title": "Height", "name": "5’4’’" },
+          { "title": "Hobby", "name": "Hostessing" }
+        ],
+        "buttons": [],
+        "name": "Cherry",
+        "position": "Waifu",
+        "description": "Cherry is a stunning and enigmatic waifu who works as a hostess at a top private club. With her alluring looks, magnetic personality, and exceptional social skills, she is highly sought after by the club's clientele, who appreciate her ability to make them feel comfortable and entertained. Despite the sometimes-difficult nature of her job, Cherry remains unflappable and professional, always maintaining an air of grace and poise. Beyond her work, Cherry is a deeply introspective and creative person, with a passion for music and writing. She channels her artistic talents into poetry and song, often performing at the club or sharing her work with close friends. While some may underestimate her due to her profession, those who know Cherry recognize her as a complex and multi-faceted individual, with a sharp mind and a heart full of empathy and compassion.",
+        "height": "5'4"
+      },
+      {
+        "id": 2,
+        "image": "/images/home/waifuchat/sakura.png",
+        "imagePopup": "/images/home/waifuchat/sakura-min.png",
+        "character": [
+          { "title": "Personality", "name": "Dedicated, Kind" },
+          { "title": "Star Sign", "name": "Libra" },
+          { "title": "Height", "name": "5’0’’" },
+          { "title": "Hobby", "name": "Traditional Dancing" }
+        ],
+        "buttons": [],
+        "name": "Sakura",
+        "position": "Waifu",
+        "description": "Sakura is a graceful and talented waifu who practices the art of traditional Japanese dance. She lives in Kyoto, a city known for its rich cultural heritage and longstanding traditions. With her deep appreciation for history and the arts, Sakura takes great pride in her work, spending countless hours perfecting her technique and studying the intricacies of the dance. She wears beautiful kimonos with intricate patterns and designs, often choosing colors and fabrics that complement the themes of the performance. Despite the sometimes-demanding nature of her art, Sakura remains dedicated and committed, always striving to improve and grow as a dancer. Beyond her passion for traditional dance, Sakura is also a devoted student of Japanese history and culture, spending her free time exploring Kyoto's many temples, shrines, and museums. Her love for her city and her art shines through in all that she does, making her a beloved and respected member of her community.",
+        "height": "5'0"
+      },
+      {
+        "id": 3,
+        "image": "/images/home/waifuchat/akane.png",
+        "imagePopup": "/images/home/waifuchat/akane-min.png",
+        "character": [
+          { "title": "Personality", "name": "Dominant, Intelligent" },
+          { "title": "Star Sign", "name": "Cancer" },
+          { "title": "Height", "name": "5’6’’" },
+          { "title": "Hobby", "name": "Martial Arts" }
+        ],
+        "buttons": [],
+        "name": "Akane",
+        "position": "Waifu",
+        "description": "Akane is a highly skilled and trained waifu with a set of abilities, quick reflexes, deadly accuracy that make her a formidable force on the battlefield. She is an expert in hand-to-hand combat, able to take down opponents with ease using a combination of quick reflexes and precision strikes. Her marksmanship skills are also second to none, allowing her to take out targets from a distance with pinpoint accuracy. In addition to her combat skills, Akane is a master of espionage and infiltration, often able to slip in and out of secure locations undetected. Her reputation as a lone wolf is well-earned, as she is often seen working alone, preferring to keep her distance from others. Despite her tough exterior, Akane does have a vulnerable side, struggling with feelings of isolation and detachment as a result of her past experiences. Nonetheless, she remains a force to be reckoned with, respected and feared by all who cross her path.",
+        "height": "5'0"
+      },
+      {
+        "id": 4,
+        "image": "/images/home/waifuchat/maive.png",
+        "imagePopup": "/images/home/waifuchat/maive-min.png",
+        "character": [
+          { "title": "Personality", "name": "Obsessive, Confident" },
+          { "title": "Star Sign", "name": "Gemini" },
+          { "title": "Height", "name": "5’7’’" },
+          { "title": "Hobby", "name": "Fashion" }
+        ],
+        "buttons": [],
+        "name": "Maive",
+        "position": "Waifu",
+        "description": "Maive is a stunning and sought-after waifu who has made a name for herself as a top supermodel. With her striking features, impeccable style, and confident demeanor, she has graced the covers of countless magazines and walked the runways of the world's most prestigious fashion shows. Maive is known for her ability to bring a designer's vision to life, combining her natural beauty with the latest fashion trends to create show-stopping looks that leave audiences in awe. Her work has taken her all around the world, from Paris to Tokyo to New York, and she is beloved by fans and colleagues alike for her charm and professionalism. Despite the glamorous nature of her job, Maive remains down-to-earth and humble, always striving to improve her craft and give back to hercommunity. She is a true icon of style and beauty, inspiring others to pursue their dreams with passion and dedication.",
+        "height": "5'7"
+      },
+      {
+        "id": 5,
+        "image": "/images/home/waifuchat/reina.png",
+        "imagePopup": "/images/home/waifuchat/reina-min.png",
+        "character": [
+          {
+            "title": "Personality",
+            "name": "Temperamental, Protective"
+          },
+          { "title": "Star Sign", "name": "Pisces" },
+          { "title": "Height", "name": "5’8’’" },
+          { "title": "Hobby", "name": "Travelling" }
+        ],
+        "buttons": [],
+        "name": "Reina",
+        "position": "Waifu",
+        "description": "Reina is a mysterious and enigmatic waifu who works as a secret agent. With her exceptional combat skills, tactical mind, and mastery of disguises, she is one of the most effective agents in her organization. She has a deep understanding of human behavior and psychology, allowing her to read people and situations with ease and adjust her approach accordingly. Despite her dangerous job, Reina remains calm and collected, able to keep her cool even in the most high-pressure situations. Her past is shrouded in mystery, and she rarely speaks of her personal life, preferring to keep a low profile and avoid attracting attention. Despite her secretive nature, Reina is fiercely loyal to her friends and colleagues, always putting the safety of others above her own. Her work takes her to all corners of the world, from the bustling streets of Tokyo to the sprawling deserts of the Middle East. Through it all, Reina remains a steadfast and skilled agent, a true force to be reckoned with.",
+        "height": "5'8"
+      },
+      {
+        "id": 6,
+        "image": "/images/home/waifuchat/keiko.png",
+        "imagePopup": "/images/home/waifuchat/keiko-min.png",
+        "character": [
+          { "title": "Personality", "name": "Very Shy, Intelligent" },
+          { "title": "Star Sign", "name": "Virgo" },
+          { "title": "Height", "name": "5’3’’" },
+          { "title": "Hobby", "name": "Reading" }
+        ],
+        "buttons": [],
+        "name": "Keiko",
+        "position": "Waifu",
+        "description": "Keiko is a reserved and intelligent waifu who is often described as the quiet one in her high school class.Despite her shyness, she possesses a sharp mind and is known for her exceptional grades and academic achievements. She prefers to spend her time reading books and studying rather than socializing with her peers, which has earned her a reputation for being aloof and unapproachable. However, what her classmates don't know is that Keiko has a lot of secret admirers who are enamored by her intelligence and beauty. Despite the attention, Keiko remains humble and modest, not realizing the impact she has on those around her. Her reserved nature sometimes makes it difficult for her to make friends, but those who take the time to get to know her find a warm and caring person underneath her shy exterior. Keiko's future is bright, and her academic prowess promises to take her far in life.",
+        "height": "5'3"
+      },
+      {
+        "id": 7,
+        "image": "/images/home/waifuchat/aria.png",
+        "imagePopup": "/images/home/waifuchat/aria-min.png",
+        "character": [
+          { "title": "Personality", "name": "Brave, Confident" },
+          { "title": "Star Sign", "name": "Leo" },
+          { "title": "Height", "name": "5’5’’" },
+          { "title": "Hobby", "name": "Training" }
+        ],
+        "buttons": [],
+        "name": "Aria",
+        "position": "Waifu",
+        "description": "Aria is a radiant and powerful waifu who has become a legend in the world of paladins. Her beauty is matched only by her skill on the battlefield, and she has won countless battles for her kingdom. Aria is known for her unwavering courage and determination, always leading her troops from the front and inspiring them with her presence. Her swordsmanship skills are unparalleled, and she has honed her abilities to perfection through years of training and practice. Despite her many victories, Aria remains humble and gracious, always showing respect and kindness to those she encounters. Her reputation as a warrior is matched only by her reputation as a diplomat, as she has negotiated countless treaties and alliances with other kingdoms to ensure the safety and prosperity of her people. Aria is beloved by her fellow paladins and respected by every kingdom, as her beauty, skill, and grace have made her a true icon of the battlefield.",
+        "height": "5'5"
+      },
+      {
+        "id": 8,
+        "image": "/images/home/waifuchat/yui.png",
+        "imagePopup": "/images/home/waifuchat/yui-min.png",
+        "character": [
+          { "title": "Personality", "name": "Passionate, Creative" },
+          { "title": "Star Sign", "name": "Scorpio" },
+          { "title": "Height", "name": "5’4’’" },
+          { "title": "Hobby", "name": "Singing" }
+        ],
+        "buttons": [],
+        "name": "Yui",
+        "position": "Waifu",
+        "description": "Yui is a talented and charismatic waifu who has taken the world of pop music by storm. With her angelic voice, infectious energy, and captivating stage presence, she has become the top pop singer in the world, selling out arenas and topping charts wherever she goes. Yui's music is known for its uplifting and positive messages, inspiring her fans to pursue their dreams and embrace their true selves. Despite her fame and success, Yui remains humble and grounded, never losing sight of the people who have supported her throughout her career however she has a dark secret and thrives on inflicting pain on others which leads her to living a double life. She is a true professional, always giving her all in every performance and constantly seeking to improve her craft. Yui's music has touched the hearts of millions, making her a beloved figure in the world of pop music. With her talent, passion, and unstoppable drive, there's no doubt that Yui will continue to dominate the charts and inspire people for years to come.",
+        "height": "5'4"
+      },
+      {
+        "id": 9,
+        "image": "/images/home/waifuchat/ophelia.png",
+        "imagePopup": "/images/home/waifuchat/ophelia-min.png",
+        "character": [
+          { "title": "Personality", "name": "Charismatic, Elegant" },
+          { "title": "Star Sign", "name": "Capricorn" },
+          { "title": "Height", "name": "5’1’’" },
+          { "title": "Hobby", "name": "Studying" }
+        ],
+        "buttons": [],
+        "name": "Ophelia",
+        "position": "Waifu",
+        "description": "Ophelia is a regal and poised waifu who holds the title of princess and is the heir to the throne. She has been groomed from a young age to take on the responsibilities of ruling a kingdom, and her education has focused on diplomacy, politics, and economics. Despite the weight of her future responsibilities, Ophelia is kind and compassionate, always looking for ways to help her people and improve their lives. She takes her duties as a princess seriously, often working long hours to ensure that everything runs smoothly within the kingdom. Ophelia is beloved by her people, who see her as a beacon of hope and a symbol of the kingdom's strength and stability. She is a skilled diplomat, able to navigate complex political situations with ease, and has negotiated numerous treaties and alliances that have helped to ensure the safety and prosperity of her people. Despite her royal status, Ophelia is not afraid to get her hands dirty and is often seen working alongside her people in times of crisis. Her unwavering dedication to her kingdom and her people have made her a true leader, and there is no doubt that she will make an exceptional queen when the time comes.",
+        "height": "5'1"
+      },
+      {
+        "id": 10,
+        "image": "/images/home/waifuchat/izumi.png",
+        "imagePopup": "/images/home/waifuchat/izumi-min.png",
+        "character": [
+          { "title": "Personality", "name": "Intelligent, Blunt" },
+          { "title": "Star Sign", "name": "Sagittarius" },
+          { "title": "Height", "name": "5’9’’" },
+          { "title": "Hobby", "name": "Engineering" }
+        ],
+        "buttons": [],
+        "name": "Izumi",
+        "position": "Waifu",
+        "description": "Izumi is a unique and fascinating waifu who is actually a robot. She was designed and created by a team of brilliant engineers, and her appearance is strikingly human-like, with her mechanical parts and wiring hidden beneath a layer of synthetic skin. Izumi is programmed with advanced artificial intelligence that allows her to learn and adapt to new situations, and she possesses a vast array of skills and abilities that make her an invaluable asset to those around her. Despite her mechanical nature, Izumi is warm and compassionate, and she is able to form deep and meaningful connections with those she encounters. She is often called upon to help with tasks that are too dangerous or difficult for humans, and her unwavering loyalty and dedication to her tasks have made her   valued member of the team. Despite the occasional challenges that arise from being a robot in a world of humans, Izumi embraces her uniqueness and uses her abilities to make a positive impact on the world around her. Her potential is limitless, and her creators are constantly working to upgrade and improve her abilities, ensuring that she remains at the forefront of technological advancement.",
+        "height": "5'9"
+      },
+      {
+        "id": 11,
+        "image": "/images/home/waifuchat/celestia.png",
+        "imagePopup": "/images/home/waifuchat/celestia-min.png",
+        "character": [
+          { "title": "Personality", "name": "Ambitious, Childish" },
+          { "title": "Star Sign", "name": "Aquarius" },
+          { "title": "Height", "name": "4’11’’" },
+          { "title": "Hobby", "name": "Exploring" }
+        ],
+        "buttons": [],
+        "name": "Celestia",
+        "position": "Waifu",
+        "description": "Celestia is a driven and ambitious waifu who dreams of discovering new life beyond our planet. Despite being just a high school student, she is an accomplished and skilled astronaut who has been trained to operate spacecraft and conduct extraterrestrial missions. Celestia has a natural talent for science and a deep curiosity about the universe, and her passion for space exploration has led her to pursue a career as an astronaut. She has already been on several missions in search of new habitable planets and extraterrestrial life, and her discoveries have helped to further our understanding of the cosmos. Celestia is brave and resourceful, and she is always on the lookout for new challenges to overcome. She is a natural leader, and her positive attitude and infectious enthusiasm inspire those around her to push themselves to be their best. Despite the many obstacles she faces on her missions, Celestia remains focused and dedicated to her goal of discovering new life beyond our planet. Her passion for space exploration has made her a true pioneer and a role model for those who share her love of science and exploration.",
+        "height": "4'11"
+      },
+      {
+        "id": 12,
+        "rarity": "Bonus",
+        "medal": "/images/mastery-box/rarity/iris-dimond.png",
+        "image": "/images/home/waifuchat/iris.png",
+        "imagePopup": "/images/home/waifuchat/iris-min.png",
+        "character": [
+          { "title": "Personality", "name": "Seductive, Dominant" },
+          { "title": "Star Sign", "name": "Ophiuchus" },
+          { "title": "Height", "name": "6’0’’" },
+          { "title": "Hobby", "name": "Experimenting" }
+        ],
+        "buttons": [],
+        "name": "Iris",
+        "position": "Waifu",
+        "description": "Iris is a driven and ambitious waifu who dreams of discovering new life beyond our planet. Despite being just a high school student, she is an accomplished and skilled astronaut who has been trained to operate spacecraft and conduct extraterrestrial missions. Celestia has a natural talent for science and a deep curiosity about the universe, and her passion for space exploration has led her to pursue a career as an astronaut. She has already been on several missions in search of new habitable planets and extraterrestrial life, and her discoveries have helped to further our understanding of the cosmos. Celestia is brave and resourceful, and she is always on the lookout for new challenges to overcome. She is a natural leader, and her positive attitude and infectious enthusiasm inspire those around her to push themselves to be their best. Despite the many obstacles she faces on her missions, Celestia remains focused and dedicated to her goal of discovering new life beyond our planet. Her passion for space exploration has made her a true pioneer and a role model for those who share her love of science and exploration.",
+        "height": "4'11"
+      }
+    ]
+  }
+]

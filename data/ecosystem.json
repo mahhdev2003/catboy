@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "/images/home/ecosystem/nft.png",
+    "title": "NFT",
+    "description": "Collect and complete your Collection"
+  },
+  {
+    "id": 2,
+    "image": "/images/home/ecosystem/marketplace.png",
+    "title": "Marketplace",
+    "description": "Buy, Sell & Trade Collectible"
+  },
+  {
+    "id": 3,
+    "image": "/images/home/ecosystem/staking.png",
+    "title": "Staking",
+    "description": "Stake your $CATBOY or NFTs & Earn Rewards"
+  },
+  {
+    "id": 4,
+    "image": "/images/home/ecosystem/battle-game.png",
+    "title": "Battle Game",
+    "description": "Chance for Victory & Earn"
+  },
+  {
+    "id": 5,
+    "image": "/images/home/ecosystem/surprise-2.png",
+    "title": "AI WaifuChat",
+    "description": "Chat, Connect with your NFT & Earn"
+  },
+  {
+    "id": 6,
+    "image": "/images/home/ecosystem/ticket.png",
+    "title": "Chibis Raffle",
+    "description": "Biweekly Prizes"
+  }
+]

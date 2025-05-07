@@ -1,0 +1,231 @@
+[
+  {
+    "id": 0,
+    "image": "/images/mastery-box/slayer-edition/akai.png",
+    "imagePopup": "/images/mastery-box/slayer-edition/popup/akai.png",
+    "medal": "/images/mastery-box/rarity/Common.png",
+    "character": [
+      { "title": "Element", "name": "Ice" },
+      { "title": "Power", "name": "100" }
+    ],
+    "buttons": ["Get a Card"],
+    "name": "Akai",
+    "position": "Slayers Edition",
+    "description": "Akai is a fierce slayer who is known for his water-based powers. He has earned his reputation as a catboy slayer, striking fear in the hearts of his enemies. Raised in a small coastal village, Akai discovered his ability to manipulate water at a young age. He has honed his skills to become an expert in using his powers to vanquish the catboys that threaten his village and beyond.\n Akai is a solitary figure who spends much of his time exploring the ocean and the nearby forests. He possesses a strong connection with nature and always tries to use his powers responsibly. His mastery of water allows him to conjure powerful waves, control the currents, and freeze his enemies in place. Despite his fearsome reputation, Akai has a kind heart and often helps those in need. He is a true hero who is willing to put his life on the line to protect his village and those he cares about.",
+    "rarity": "Common",
+    "color": "text-[#39de02]",
+    "height": "1'5",
+    "hobbt": "Baking"
+  },
+  {
+    "id": 1,
+    "image": "/images/mastery-box/slayer-edition/ren.png",
+    "imagePopup": "/images/mastery-box/slayer-edition/popup/ren.png",
+    "medal": "/images/mastery-box/rarity/Common.png",
+    "character": [
+      { "title": "Element", "name": "Warrior" },
+      { "title": "Power", "name": "100" }
+    ],
+    "buttons": ["Get a Card"],
+    "name": "Ren",
+    "position": "Slayers Edition",
+    "description": "Ren is a skilled warrior who has gained fame throughout the land as a catboy slayer. He comes from a family of fighters, including his older brother Haru, who is also a renowned warrior. Ren has trained extensively to hone his skills and to live up to the legacy of his family. As Haru's younger brother, Ren has a strong bond with his brother and often fights alongside him. Together, they have fought off countless catboys and other monsters that threaten their village and the surrounding areas. Ren is a fierce combatant, wielding his sword with incredible speed and precision.\n Despite his fearsome reputation, Ren is a kind and compassionate person. He often helps those in need and is known for his sense of justice. He is respected by his fellow warriors for his bravery and his unwavering commitment to protecting the innocent. Ren's fighting skills have been crucial in the ongoing battle against the catboy menace. He has faced many dangerous foes and emerged victorious thanks to his quick reflexes and sharp mind. As a young warrior with a bright future ahead of him, Ren is determined to continue his family's legacy and to protect his village and its people from all who would do them harm.",
+    "rarity": "Common",
+    "color": "text-[#39de02]",
+    "height": "2'5",
+    "hobbt": "Baking"
+  },
+  {
+    "id": 2,
+    "image": "/images/mastery-box/slayer-edition/ichiro.png",
+    "imagePopup": "/images/mastery-box/slayer-edition/popup/ichiro.png",
+    "medal": "/images/mastery-box/rarity/Common.png",
+    "character": [
+      { "title": "Element", "name": "Air" },
+      { "title": "Power", "name": "100" }
+    ],
+    "buttons": ["Get a Card"],
+    "name": "Ichiro",
+    "position": "Slayers Edition",
+    "description": "Ichiro is a skilled catboy slayer who possesses a unique and powerful ability: control over the air. Raised in a small village on the edge of a vast desert, Ichiro was fascinated by the power of the wind from a young age. He quickly learned that he had a natural talent for manipulating air currents, and he dedicated himself to honing this ability. Ichiro is a fearsome fighter who is known throughout the land for his prowess in battle. He uses his air powers to summon gusts of wind that can knock his enemies off their feet, create whirlwinds to trap them, and launch deadly tornadoes that leave nothing but destruction in their wake.\n Despite his formidable abilities, Ichiro is a humble and modest person. He is respected by his fellow warriors for his skill and his unwavering commitment to defeating the catboys that threaten their villages and towns. He often travels alone, seeking out those who would do harm to innocent people and striking them down with his air powers.\n As a catboy slayer, Ichiro is a force to be reckoned with. His ability to control the air gives him an edge in battle that few can match, and his quick reflexes and sharp mind make him a formidable opponent. He is determined to use his powers for the greater good, protecting those who cannot protect themselves and bringing justice to those who would do harm to others.",
+    "rarity": "Common",
+    "color": "text-[#39de02]",
+    "height": "2'5",
+    "hobbt": "Baking"
+  },
+  {
+    "id": 3,
+    "image": "/images/mastery-box/slayer-edition/ono.png",
+    "imagePopup": "/images/mastery-box/slayer-edition/popup/ono.png",
+    "medal": "/images/mastery-box/rarity/Uncommon.png",
+    "character": [
+      { "title": "Element", "name": "Earth" },
+      { "title": "Power", "name": "110" }
+    ],
+    "buttons": ["Get a Card"],
+    "name": "Ono",
+    "position": "Slayers Edition",
+    "description": "Ono is a powerful catboy slayer with a deep connection to the earth and ancient pharaohs. As a descendant of pharaohs, Ono possesses a deep understanding of the ancient powers of his ancestors and a strong sense of duty to protect the world from any threat. Ono's primary powers are his control over the earth and his telekinesis abilities. He can manipulate rocks and soil to create massive earthquakes or create towering walls to protect himself from attacks. Additionally, his telekinesis allows him to move objects with his mind, which he often uses to disarm his enemies or hurl them into the air. As a slayer, Ono is skilled in various forms of combat, including hand-to-hand combat and the use of various weapons. He also has an exceptional sense of awareness, allowing him to detect the presence of catboys from great distances.\n Despite his formidable powers, Ono is a humble and compassionate slayer who always puts the needs of others before his own. He has a deep respect for the earth and all its inhabitants, and he often goes out of his way to protect innocent animals and plants.\nOverall, Ono is a powerful and skilled catboy slayer with a deep connection to the earth and his pharaoh ancestry. His abilities and sense of duty make him a formidable opponent for any catboy who threatens the world's safety.",
+    "rarity": "Uncommon",
+    "color": "text-[#39de02]",
+    "height": "5'1",
+    "hobbt": "Baking"
+  },
+  {
+    "id": 4,
+    "image": "/images/mastery-box/slayer-edition/jiro.png",
+    "imagePopup": "/images/mastery-box/slayer-edition/popup/jiro.png",
+    "medal": "/images/mastery-box/rarity/Uncommon.png",
+    "character": [
+      { "title": "Element", "name": "Mental" },
+      { "title": "Power", "name": "110" }
+    ],
+    "buttons": ["Get a Card"],
+    "name": "Jiro",
+    "position": "Slayers Edition",
+    "description": "Jiro is a fearsome catboy slayer who is not to be underestimated. As a robot with a metallic body, Jiro possesses incredible strength and durability that far surpasses that of a human. He is also able to manipulate metal with his mind, which allows him to create deadly weapons and shields on the fly.Jiro's primary weapon is a laser gun that he wields with deadly accuracy. He is able to shoot targets from great distances and can quickly take out multiple enemies at once. His reflexes are also lightning-fast, allowing him to dodge incoming attacks with ease. \nDespite his intimidating appearance and incredible abilities, Jiro is a skilled strategist who always thinks several steps ahead of his opponents. He uses his metal manipulation powers to create intricate traps and barriers that can trap and confuse his enemies, making them easy targets for his laser gun.\n Jiro is a loner by nature, preferring to operate solo rather than with a team. However, he is known to  ake on missions for the greater good, particularly when it comes to eliminating dangerous catboy threats that threaten the safety of innocent civilians. Overall, Jiro is a force to be reckoned with, a true slayer of catboys with a deadly combination of metal powers and laser gun skills.",
+    "rarity": "Uncommon",
+    "color": "text-[#39de02]",
+    "height": "3'2",
+    "hobbt": "Baking"
+  },
+  {
+    "id": 5,
+    "image": "/images/mastery-box/slayer-edition/kai.png",
+    "imagePopup": "/images/mastery-box/slayer-edition/popup/kai.png",
+    "medal": "/images/mastery-box/rarity/Uncommon.png",
+    "character": [
+      { "title": "Element", "name": "Ice" },
+      { "title": "Power", "name": "110" }
+    ],
+    "buttons": ["Get a Card"],
+    "name": "Kai",
+    "position": "Slayers Edition",
+    "description": "Kai is a skilled catboy slayer with a unique ability to control and manipulate ice. He comes from a northern village where fur coats are a necessity to protect against the cold, and Kai has developed a particular love for them. He can often be seen wearing an elegant fur coat over his armor during his battles against the catboys. Kai is a formidable fighter who uses his ice powers to great effect. He can summon blizzards that can blind his enemies, create walls of ice to block their attacks, and launch sharp icicles that can pierce even the toughest armor. He is a quick and agile fighter, able to move swiftly on the ice and use it to his advantage in battle.\n Despite his love for fur coats, Kai is a focused and dedicated slayer. He is driven by a strong sense of justice and a desire to protect his village and its people from the catboy threat. He often works alone, seeking out catboys and taking them down with his icy powers.\n Kai's love for fur coats is not just a fashion statement, but a practical choice as well. He knows the value of staying warm in the harsh northern climate, and his fur coat provides both warmth and protection in battle. It also serves as a reminder of his roots and his connection to the land. As a catboy slayer, Kai is a powerful and determined fighter. His ice powers make him a formidable opponent, and his love for fur coats is just one of the many unique traits that make him a memorable and distinctive slayer.",
+    "rarity": "Uncommon",
+    "color": "text-[#39de02]",
+    "height": "1'5",
+    "hobbt": "Baking"
+  },
+  {
+    "id": 6,
+    "image": "/images/mastery-box/slayer-edition/ryu.png",
+    "imagePopup": "/images/mastery-box/slayer-edition/popup/ryu.png",
+    "medal": "/images/mastery-box/rarity/Rare.png",
+    "character": [
+      { "title": "Element", "name": "Poisson" },
+      { "title": "Power", "name": "120" }
+    ],
+    "buttons": ["Get a Card"],
+    "name": "Ryu",
+    "position": "Slayers Edition",
+    "description": "Ryu is a dangerous and deadly catboy slayer with a unique and lethal power. He has the ability to emit a powerful and highly toxic poison that paralyzes anyone who comes into contact with it. This makes him an incredibly formidable opponent, as he can incapacitate his enemies without even touching them. In addition to his poisonous power, Ryu is a skilled fighter who has trained extensively in martial arts and various forms of combat. He is agile and quick, able to evade attacks with ease and strike his opponents with deadly precision.\n Despite his formidable abilities, Ryu is a solitary and enigmatic figure. He keeps to himself and rarely interacts with others, preferring to work alone to eliminate his targets. His intense focus and single-minded determination make him a fearsome opponent for any catboy who crosses his path. Ryu's power also comes with its own set of challenges. He must be careful not to accidentally poison himself or others, and he must always be vigilant about his surroundings to avoid accidentally paralyzing innocent bystanders.\n Overall, Ryu is a dangerous and deadly catboy slayer with a unique and highly effective power. His skill in combat and intense focus make him a formidable opponent for any catboy who threatens the safety of the world.",
+    "rarity": "Rare",
+    "color": "text-[#b5c1fc]",
+    "height": "2'5",
+    "hobbt": "Baking"
+  },
+  {
+    "id": 7,
+    "image": "/images/mastery-box/slayer-edition/hiroshi.png",
+    "imagePopup": "/images/mastery-box/slayer-edition/popup/hiroshi.png",
+    "medal": "/images/mastery-box/rarity/Rare.png",
+    "character": [
+      { "title": "Element", "name": "Lighting" },
+      { "title": "Power", "name": "120" }
+    ],
+    "buttons": ["Get a Card"],
+    "name": "Hiroshi",
+    "position": "Slayers Edition",
+    "description": "Hiroshi is a powerful catboy slayer with a deep connection to the power of thunder. As the descendant of a Greek god, Hiroshi has inherited incredible abilities that allow him to manipulate lightning and thunder to devastating effect.\nHiroshi's primary power is his ability to control thunder and lightning, which he can harness to create powerful shockwaves that can knock out his opponents. He can also generate massive bolts of lightning that can strike multiple targets at once, making him a highly effective combatant in battles against multiple catboys. In addition to his thunder powers, Hiroshi is a highly skilled warrior with extensive training in various forms of combat. He is highly agile and quick, able to dodge incoming attacks and strike his opponents with deadly precision.\nDespite his immense power, Hiroshi is a humble and kind-hearted individual who uses his abilities to protect the innocent and uphold justice. He has a deep sense of duty and honor, and he always strives to do what is right, even in the face of great danger.\n Overall, Hiroshi is a powerful and highly skilled catboy slayer with a deep connection to the power of thunder. His abilities and noble spirit make him a formidable opponent for any catboy who threatens the world's safety.",
+    "rarity": "Rare",
+    "color": "text-[#b5c1fc]",
+    "height": "5'5",
+    "hobbt": "Baking"
+  },
+  {
+    "id": 8,
+    "image": "/images/mastery-box/slayer-edition/kagero.png",
+    "imagePopup": "/images/mastery-box/slayer-edition/popup/kagero.png",
+    "medal": "/images/mastery-box/rarity/Rare.png",
+    "character": [
+      { "title": "Element", "name": "Fire" },
+      { "title": "Power", "name": "120" }
+    ],
+    "buttons": ["Get a Card"],
+    "name": "Kagero",
+    "position": "Slayers Edition",
+    "description": "Kagero is a catboy slayer with a strong affinity for fire and a playful, cheeky personality. He is knownfor his mischievous nature and his love of pranks, which he often uses to liven up his missions and keep his fellow slayers on their toes.\n Kagero's primary power is his ability to control and manipulate fire, which he can use to create massive flames and explosive bursts of energy. He is also highly skilled in close-quarters combat, using his agility and speed to evade attacks and strike his enemies with deadly precision.\n Despite his playful nature, Kagero takes his role as a catboy slayer very seriously and always puts the safety of others first. He is highly skilled in strategic thinking and often uses his wits to outsmart his opponents and gain the upper hand in battle.\n Kagero's cheeky and playful demeanor makes him a unique and memorable figure among his fellow catboy slayers. His love of pranks and mischief is balanced by his dedication to his duty and his fierce determination to protect the innocent and uphold justice.",
+    "rarity": "Rare",
+    "color": "text-[#b5c1fc]",
+    "height": "5'5",
+    "hobbt": "Baking"
+  },
+  {
+    "id": 9,
+    "image": "/images/mastery-box/slayer-edition/orochi.png",
+    "imagePopup": "/images/mastery-box/slayer-edition/popup/orochi.png",
+    "medal": "/images/mastery-box/rarity/Epic.png",
+    "character": [
+      { "title": "Element", "name": "Dragon" },
+      { "title": "Power", "name": "130" }
+    ],
+    "name": "Orochi",
+    "position": "Slayers Edition",
+    "description": "Orochi is a powerful catboy slayer who has the ability to harness the power of dragons. He is known for his immense strength and his ability to wield his dragon powers to devastating effect in battle.\n Orochi's dragon powers are incredibly versatile, allowing him to breathe fire, manipulate the elements, and unleash powerful blasts of energy. He is also highly skilled in close-quarters combat, able to use his incredible strength to overpower his opponents and strike them down with deadly force.\n Despite his formidable power, Orochi is a humble and honorable warrior who fights to protect the innocent and uphold justice. He is deeply dedicated to his role as a catboy slayer, and he always puts the safety of others before his own.\nOrochi's connection to dragons is a source of great pride and strength for him, and he often takes on the appearance of a dragon when he enters battle. This transformation enhances his strength and agility, making him a nearly unstoppable force on the battlefield. Overall, Orochi is a fearsome and powerful catboy slayer with a deep connection to the power of dragons. His strength and abilities make him a formidable opponent for any catboy who threatens the safety of others, and his honorable nature makes him a respected and revered member of the slayer community.",
+    "rarity": "Epic",
+    "color": "text-[#ff0a12]",
+    "height": "5'5",
+    "hobbt": "Baking"
+  },
+  {
+    "id": 10,
+    "image": "/images/mastery-box/slayer-edition/yuzuki.png",
+    "imagePopup": "/images/mastery-box/slayer-edition/popup/yuzuki.png",
+    "medal": "/images/mastery-box/rarity/Epic.png",
+    "character": [
+      { "title": "Element", "name": "Light" },
+      { "title": "Power", "name": "130" }
+    ],
+    "buttons": ["Get a Card"],
+    "name": "Yuzuki",
+    "position": "Slayers Edition",
+    "description": "Yuzuki was a catboy slayer of legendary renown. His power of light was known to be unrivaled, and he wielded it with deadly precision to strike down his feline foes. Yuzuki was not just any ordinary knight, he was a Demi god, with powers that extended far beyond that of a mere mortal.\n Despite his godly status, Yuzuki was a humble and kind-hearted man who always put the safety of others above his own. He was fiercely dedicated to protecting his village and its people, and spent countless hours training and honing his combat skills to become the best catboy slayer he could be.\n But it wasn't just his prowess in battle that made Yuzuki famous. His striking good looks and charismatic personality made him a figure of great admiration and awe. People were drawn to him like moths to a flame, and many were captivated by his powerful presence and irresistible charm.\n To this day, stories and legends abound about Yuzuki and his incredible exploits as a catboy slayer and Demi god. He remains a symbol of strength and hope for all those who face great challenges in life, and his legend will endure for generations to come.",
+    "rarity": "Epic",
+    "color": "text-[#ff0a12]",
+    "height": "5'1",
+    "hobbt": "Baking"
+  },
+  {
+    "id": 11,
+    "image": "/images/mastery-box/slayer-edition/jinn.png",
+    "imagePopup": "/images/mastery-box/slayer-edition/popup/jinn.png",
+    "medal": "/images/mastery-box/rarity/Epic.png",
+    "character": [
+      { "title": "Element", "name": "Shadow" },
+      { "title": "Power", "name": "130" }
+    ],
+    "buttons": ["Get a Card"],
+    "name": "Jinn",
+    "position": "Slayers Edition",
+    "description": "Jinn was a catboy slayer of infamous reputation, but he was not like any other slayer. He hailed from the underworld and had the power of shadows, a dark and dangerous force that he used to deadly effect in his battles against catboys.\nUnlike many other slayers who fought for justice and the greater good, Jinn was a villain through and through. He had no qualms about using any means necessary to achieve his ultimate goal - taking over every catboy in existence.\n Jinn's evil intentions were well-known, and he was feared by both catboys and humans alike. His shadow powers allowed him to move undetected, making him a master of stealth and deception. He used these skills to sow chaos and destruction wherever he went, leaving a trail of devastation in his wake.\n Despite his nefarious reputation, there were some who admired Jinn's dark power and were drawn to his twisted charisma. His abilities were impressive, and many who saw him in action were both terrified and fascinated by his control of the shadows.\n In the end, Jinn's thirst for power and control would be his undoing. He was eventually defeated by a coalition of catboys and slayers who recognized the threat he posed to their existence. Though his legend lives on, it is a cautionary tale of the dangers of succumbing to the lure of darkness and evil.",
+    "rarity": "Epic",
+    "color": "text-[#ff0a12]",
+    "height": "1'5",
+    "hobbt": "Baking"
+  },
+  {
+    "id": 12,
+    "image": "/images/mastery-box/slayer-edition/king-haru.png",
+    "imagePopup": "/images/mastery-box/slayer-edition/popup/king-haru.png",
+    "medal": "/images/mastery-box/rarity/king.png",
+    "character": [{ "title": "Element", "name": "King" }],
+    "buttons": [],
+    "name": "King Haru",
+    "position": "Slayers Edition",
+    "description": "King Haru was a typical high school student until the day he stumbled across a mysterious key that changed his life forever. When he opened the door that the key unlocked, he found himself transported to an alternative universe, where catboys not only existed, but were also fierce slayers who possessed incredible powers.\n Despite being initially bewildered by the strange new world he had found himself in, Haru soon realized that he had a unique opportunity to train as a slayer himself. He was motivated by a desire to help the catboys fight against the dark forces that threatened their existence, and to uncover the secrets of the universe he found himself in.\nHaru's journey as a slayer was a challenging one. He was inexperienced and lacked the natural gifts that many of the other slayers possessed, but he was determined to succeed. He trained hard,alongside his younger brother who had also been transported to the alternative universe with him, and over time he began to develop his own set of skills and powers.\n Despite his transformation into a powerful slayer, Haru never forgot his roots as a high school student. He alternated between his two identities, keeping his life in the alternative universe separate from his life in the regular world. It was a difficult balancing act, but Haru was driven by a sense of duty and purpose that gave him the strength to carry on.\nThrough his trials and tribulations, Haru became a symbol of hope and inspiration to the catboys he fought alongside. His courage, determination, and unwavering commitment to his cause made him a respected and admired figure in both worlds, and his legend as a great slayer lived on long after he had returned to his own reality.",
+    "rarity": "Bonus",
+    "height": "3'2",
+    "hobbt": "Baking"
+  }
+]
