@@ -1168,7 +1168,7 @@
                       className:
                         "text-[14px] leading-[14px] lg:text-[32px] lg:leading-[36px] font-gotham",
                       children:
-                        "Catboy brings a fresh and playful twist to the world of blockchain, offering the first AI interaction. Catboy is allowing fans to collect and trade unique anime-inspired NFTs with tons of reward programs. Experience the thrill of our exciting Lottery Raffle Events, Battle of the Catboys\u2122 Game & More!",
+                        "Catboy brings a fresh and playful twist to the world of blockchain, offering the first AI interaction. Catboy is allowing fans to collect and trade unique anime-inspired entities with tons of reward programs. Experience the thrill of our exciting Lottery Raffle Events, Battle of the Catboys\u2122 Game & More!",
                     }),
                   ],
                 }),

@@ -570,7 +570,7 @@
                           className: "text-center w-1/4 sm:w-1/6",
                           children: [
                             (0, n.jsx)("a", {
-                              href: "https://www.mexc.com/price/CATBOY?calculatorTab=trade",
+                              href: "",
                               className:
                                 "inline-block w-[54px] lg:w-[60px] h-[54px] lg:h-[60px] relative cursor-pointer rounded-full overflow-hidden",
                               title: "Mexc",
@@ -592,7 +592,7 @@
                           className: "text-center w-1/4 sm:w-1/6",
                           children: [
                             (0, n.jsx)("a", {
-                              href: "https://www.bitget.com/spot/CATBOYUSDT",
+                              href: "",
                               className:
                                 "inline-block w-[54px] lg:w-[60px] h-[54px] lg:h-[60px] relative cursor-pointer rounded-full overflow-hidden",
                               title: "Bitget",
@@ -614,7 +614,7 @@
                           className: "text-center w-1/4 sm:w-1/6",
                           children: [
                             (0, n.jsx)("a", {
-                              href: "https://www.lbank.com/trade/catboy_usdt",
+                              href: "",
                               className:
                                 "inline-block w-[54px] lg:w-[60px] h-[54px] lg:h-[60px] relative cursor-pointer rounded-full overflow-hidden",
                               title: "LBank",
@@ -1087,18 +1087,7 @@
                       children: [
                         (0, n.jsx)("p", {
                           className:
-                            "text-[16px] lg:text-[22px] leading-[20px] lg:leading-[28px] font-gotham-medium font-medium text-[#E4C1A8] hover:text-[#FFFFFF] px-3 border-r border-[#E4C1A8] hover:border-[#FFFFFF] cursor-pointer transition-all",
-                          onClick: function () {
-                            return window.open(
-                              "https://gitbook.catboy.io/informations/terms-and-conditions",
-                              "_blank"
-                            );
-                          },
-                          children: "Terms and Conditions",
-                        }),
-                        (0, n.jsx)("p", {
-                          className:
-                            "text-[16px] lg:text-[22px] leading-[20px] lg:leading-[28px] font-gotham-medium font-medium text-[#E4C1A8] hover:text-[#FFFFFF] px-3 lg:border-r lg:border-[#E4C1A8] lg:hover:border-[#FFFFFF] cursor-pointer transition-all",
+                            "text-[16px] lg:text-[22px] leading-[20px] lg:leading-[28px] font-gotham-medium font-medium text-[#E4C1A8] hover:text-[#FFFFFF] px-3  cursor-pointer transition-all",
                           onClick: function () {
                             return window.open(
                               "https://gitbook.catboy.io/informations/terms-and-conditions",
@@ -1108,14 +1097,6 @@
                           children: "Disclaimer",
                         }),
                       ],
-                    }),
-                    (0, n.jsx)("p", {
-                      className:
-                        "text-[16px] lg:text-[22px] leading-[28px] font-gotham-medium font-medium text-[#E4C1A8] hover:text-[#FFFFFF] px-3 cursor-pointer transition-all",
-                      onClick: function () {
-                        return window.open("Mailto:Info@Catboy.io", "_blank");
-                      },
-                      children: "Contact Us",
                     }),
                   ],
                 }),
