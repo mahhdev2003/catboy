@@ -2012,7 +2012,7 @@
                   (0, i.jsx)("p", {
                     className:
                       "font-hitandrun text-[32px] lg:text-[64px] leading-[40px] lg:leading-[64px] uppercase text-center mb-8 lg:mb-[61px]",
-                    children: "Meet the team",
+                    children: "Best Avatars",
                   }),
                   (0, i.jsx)("div", {
                     className:
@@ -2027,21 +2027,6 @@
                             className:
                               "flex flex-col items-center justify-between w-full lg:w-[200px] text-center mx-auto",
                             children: [
-                              (0, i.jsxs)("div", {
-                                className: "max-h-[52px] mb-4 lg:mb-7",
-                                children: [
-                                  (0, i.jsx)("p", {
-                                    className:
-                                      "font-gotham-bold text-[16px] lg:text-[26px] leading-[16px] lg:leading-[26px] uppercase font-bold",
-                                    children: e.name,
-                                  }),
-                                  (0, i.jsx)("p", {
-                                    className:
-                                      "font-gotham-bold text-[16px] lg:text-[26px] leading-[16px] lg:leading-[26px] uppercase font-bold",
-                                    children: e.position,
-                                  }),
-                                ],
-                              }),
                               (0, i.jsx)("div", {
                                 className:
                                   "relative w-[146px] lg:w-[196px] h-[146px] lg:h-[196px] rounded-full border-2 border-[#FFFFFF] grow",
