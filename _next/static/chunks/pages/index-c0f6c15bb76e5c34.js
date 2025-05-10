@@ -2012,7 +2012,7 @@
                   (0, i.jsx)("p", {
                     className:
                       "font-hitandrun text-[32px] lg:text-[64px] leading-[40px] lg:leading-[64px] uppercase text-center mb-8 lg:mb-[61px]",
-                    children: "Best Avatars",
+                    children: "Best PFPs",
                   }),
                   (0, i.jsx)("div", {
                     className:
