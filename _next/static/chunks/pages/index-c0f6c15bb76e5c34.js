@@ -1168,7 +1168,7 @@
                       className:
                         "text-[14px] leading-[14px] lg:text-[32px] lg:leading-[36px] font-gotham",
                       children:
-                        "Catboy brings a fresh and playful twist to the world of blockchain, offering the first AI interaction with NFTs. Catboy is allowing fans to collect and trade unique anime-inspired NFTs with tons of reward programs. Experience the thrill of our exciting Lottery Raffle Events, Battle of the Catboys\u2122 Game & More!",
+                        "Catboy brings a fresh and playful twist to the world of blockchain, offering the first AI interaction. Catboy is allowing fans to collect and trade unique anime-inspired NFTs with tons of reward programs. Experience the thrill of our exciting Lottery Raffle Events, Battle of the Catboys\u2122 Game & More!",
                     }),
                   ],
                 }),
@@ -1310,42 +1310,6 @@
                     className:
                       "relative z-30 [background:linear-gradient(90deg,#5470FE_0%,#F567C7_100%)] p-4 rounded-[64px] lg:rounded-[47px] h-[78px] w-[204px] lg:w-[400px] flex items-center justify-center gap-2 mx-auto mb-5 lg:mb-0",
                     children: [
-                      (0, i.jsx)("div", {
-                        className:
-                          "absolute left-3 lg:left-[28px] z-20 review-swiper-button-prev cursor-pointer",
-                        onClick: function () {
-                          d(function (e) {
-                            return (e + 2) % 3;
-                          });
-                        },
-                        children: (0, i.jsx)("div", {
-                          className:
-                            "w-[12px] lg:w-[32px] h-[20px] lg:h-[32px] relative",
-                          children: (0, i.jsx)(c(), {
-                            src: b,
-                            alt: "button prev",
-                            layout: "fill",
-                          }),
-                        }),
-                      }),
-                      (0, i.jsx)("div", {
-                        className:
-                          "absolute right-3 lg:right-[28px] z-20 review-swiper-button-next rotate-180 cursor-pointer",
-                        onClick: function () {
-                          d(function (e) {
-                            return (e + 1) % 3;
-                          });
-                        },
-                        children: (0, i.jsx)("div", {
-                          className:
-                            "w-[12px] lg:w-[32px] h-[20px] lg:h-[32px] relative",
-                          children: (0, i.jsx)(c(), {
-                            src: b,
-                            alt: "button next",
-                            layout: "fill",
-                          }),
-                        }),
-                      }),
                       (0, i.jsxs)("div", {
                         className: "text-center",
                         children: [
