@@ -171,7 +171,7 @@
                         children: (0, a.jsx)("p", {
                           className:
                             "text-[16px] lg:text-[36px] leading-4 lg:leading-[36px] font-gotham-black items-center py-[12px] px-[22px]",
-                          children: "Play Now",
+                          children: "Soon",
                         }),
                       }),
                       (0, a.jsx)("div", {
